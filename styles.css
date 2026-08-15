@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+:root {
+  font-family: 'itc-american-typewriter', serif;
+  font-style: normal;
+}
+body {
+  margin: 30px 30px;
+}
+main {
+  max-width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+img.aifree {
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+p.certification {
+  max-width: 800px;
+  font-family: 'itc-american-typewriter', serif;
+  font-weight: 300;
+  font-style: normal;
+}
+h1 {
+  font-family: 'itc-american-typewriter', serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 54px;
+  letter-spacing: 0.05em;
+}
+h1,
+h2,
+h3,
+p {
+  margin: 15px 0px;
+  font-family: 'itc-american-typewriter', serif;
+  font-weight: 300;
+}
