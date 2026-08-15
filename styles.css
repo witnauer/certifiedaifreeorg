@@ -45,3 +45,10 @@ p {
   font-family: 'itc-american-typewriter', serif;
   font-weight: 300;
 }
+p.license {
+  font-size: 13px;
+  max-width: 800px;
+  font-family: 'itc-american-typewriter', serif;
+  font-weight: 300;
+  font-style: italic;
+}
